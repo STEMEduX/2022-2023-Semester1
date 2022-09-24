@@ -1,0 +1,11 @@
+1. Please use what you learned in the class to write a python program to calculate 
+1 + 4 + 9 + 16 + .... + 98 * 98 + 99 * 99 + 100 * 100.
+2. Attached please find 2_simple_dice.py python program we used in the class for rolling dice. Try to run it. Question: how many times should you roll the dice so you can get better probability of a certain number closer to the 1/6 i.e. 0.167 probability?
+
+
+
+
+
+
+
+
