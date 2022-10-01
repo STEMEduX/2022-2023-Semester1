@@ -1,0 +1,22 @@
+##
+## array.py
+
+  
+def main():
+    arr = ['I', 'Love', 'Computer', 'Software', 'Programming']
+
+    for i in range (0, 5):
+        end = " "
+        end1 = " U"
+        print (arr[i], end, end1)
+
+    print ("\r")
+
+    arr[2] = 'AI'
+
+    for i in range (0, 5):
+        print (arr[i], end = " ")
+
+    print ("\r")
+
+main()
