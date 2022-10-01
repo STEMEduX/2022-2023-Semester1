@@ -1,0 +1,22 @@
+##
+## simple_calculation.py
+# Please use what you learned in the class to write a python # program to calculate 
+# 1 + 4 + 9 + 16 + .... + 98 * 98 + 99 * 99 + 100 * 100.
+# calculate 100! = 100*99....*1 = 1*2....*100
+
+
+
+def main():
+    current = 1
+    sum = 0
+    notDone = True
+    while notDone:
+        print("current: ", current)
+        sum = sum + current * current
+        current = current + 1
+        if current > 100:
+            notDone = False
+
+    print("Sum: ", sum)
+
+main()
