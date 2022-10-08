@@ -1,0 +1,30 @@
+## simple_calculation.py
+# Please use what you learned in the class to write a python # program to calculate 
+# 1 + 4 + 9 + 16 + .... + 98 * 98 + 99 * 99 + 100 * 100.
+# divide and conquer
+
+
+
+def main():
+    current = 1
+    sum = 0
+    a = [0] * 100
+    Done = False
+    while not Done:
+        print("current: ", current)
+        a[current - 1] = current * current
+        
+        current = current + 1
+        if current > 100:
+            Done = True
+
+    print("The array: ", a)
+
+   
+    for i in range (0, 100): # for i = 0; i= i + 1; i < 100
+        print("i: ", i, " a ", a[i])
+        sum = sum + a[i]
+
+    print ("Sum: ", sum)
+
+main()
