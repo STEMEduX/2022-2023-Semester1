@@ -1,0 +1,2 @@
+1. Please modify/write the prime number checking python program so it would sum all the factors of any number of your choice.
+2. (Optional) It seems the house the Bunny is adventuring in does not have a bathroom and also does not have a bedroom. Can you add to the house one or two bathroom(s) and if you like, add a bedroom so Johnny can hide his basket there?
