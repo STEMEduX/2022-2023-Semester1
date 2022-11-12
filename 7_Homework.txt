@@ -1,2 +1,0 @@
-1. Write a Python program to display the Fibonacci sequence up to n-th term.
-2. It seems the house the Bunny is adventuring is a one story house. Can you modify the program so that the house would have a second floor or basement where there is a big recreation room so Johnny can hide his basket there?
