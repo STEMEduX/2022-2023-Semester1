@@ -1,0 +1,3 @@
+1. For the Hangman program, please modify all hangman words to 5 letters. And make the guesses over 8 times to fail for the game then print the hangman picture. For the winners i.e. people who are guessing correctly with 8 or less attempts, you may want to issue them monetary awards so to have more funs with your friends, brothers and sisters.
+
+
