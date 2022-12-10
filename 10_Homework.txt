@@ -1,0 +1,6 @@
+1. (Optional)Print out all the leap years since year 1900 using a python program;
+
+2. John Conway's Game of Life:
+a. https://www.frontiersin.org/articles/10.3389/fcimb.2016.00057/full
+b. Currently our Game of Life's program has set the default generations to 5000, can you set it to 50, 500, 2500 and see how it runs?
+c. Can you modify the program so it would evolve slower or faster?
