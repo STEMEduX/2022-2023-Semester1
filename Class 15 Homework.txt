@@ -1,0 +1,3 @@
+Homework for programming
+Using python program to implement following algorithm:
+Given a matrix mat[][] of dimension N*M, a positive integer K and the source cell (X, Y), the task is to print all possible paths to move out of the matrix from the source cell (X, Y) by moving in all four directions in each move in at most K moves.
