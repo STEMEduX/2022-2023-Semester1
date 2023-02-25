@@ -1,0 +1,6 @@
+Homework for programming
+Using python program to write a recursive function to 
+1. calculate the factorial of 100;
+2. calculate the fibonacci numbers for 100 terms.
+
+You can modify the programs we discussed in the class, please just not to copy them as they are as you see them in the GITHUB repository.
